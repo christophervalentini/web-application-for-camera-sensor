@@ -38,11 +38,13 @@ pip3 install schedule numpy flask flask_cors opencv-python
 	'python3 main.py' to 'python3.6 main.py'
 
 
--Make the script executable
+-Make the script executable and run the application
 chmod +x start_webapp_offline.sh
-
--Run the application
 ./start_webapp_offline.sh
+
+OR, if you use the Raspberry
+chmod +x start_webapp_offline_raspberry.sh
+./start_webapp_offline_raspberry.sh
 
 -If you get the error 'no module named cv2', be sure to have the package 'python3-opencv' installed, or the 'opencv-python' pip module. On the Raspberry do not use pip module opencv-python
 
