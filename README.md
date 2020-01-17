@@ -1,4 +1,5 @@
 # web-application-for-camera-sensor
+Christopher Valentini 191007
 UniTN - Embedded Systems course - Web Application for Camera Sensor project
 
 
